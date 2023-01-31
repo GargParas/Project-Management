@@ -70,7 +70,7 @@ function resetForm() {
 
 //on click function
 function saveProj() {
-    alert("save");
+    //alert("save");
     console.log("save");
     var jsonStr = validateData();
     if (jsonStr === "") {
