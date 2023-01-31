@@ -41,16 +41,13 @@ Project Management Form is a micro project which is a part of my learning in my 
 &nbsp;&nbsp;
 
 ## Screenshots
-![Validation](https://github.com/snippy066/assignment/blob/main/projectImage/assign1.png)&nbsp;&nbsp;
-![Executation](https://github.com/snippy066/assignment/blob/main/projectImage/assign2.png)&nbsp;&nbsp;
-![Result](https://github.com/snippy066/assignment/blob/main/projectImage/assign3.png)&nbsp;&nbsp;
-![Database](https://github.com/snippy066/assignment/blob/main/projectImage/assign4.png)&nbsp;&nbsp;
+---
 
-
------![Screenshot (23)](https://user-images.githubusercontent.com/91370703/215752430-743b4eb3-9aa1-431a-8284-f09f2ef1890a.png)
-![Screenshot (24)](https://user-images.githubusercontent.com/91370703/215752440-c474d23b-1490-4b7b-968b-ae76aa8919c6.png)
-![Screenshot (21)](https://user-images.githubusercontent.com/91370703/215752447-69543125-ca8a-4d6e-bb2b-e2630f4a120a.png)
-![Screenshot (22)](https://user-images.githubusercontent.com/91370703/215752451-41f66c06-6bce-4dbf-824c-a1f09320d757.png)
+![Validation](https://user-images.githubusercontent.com/91370703/215752451-41f66c06-6bce-4dbf-824c-a1f09320d757.png)
+![Searching](https://user-images.githubusercontent.com/91370703/215752447-69543125-ca8a-4d6e-bb2b-e2630f4a120a.png)
+![Saving](https://user-images.githubusercontent.com/91370703/215752430-743b4eb3-9aa1-431a-8284-f09f2ef1890a.png)
+![Updating](https://user-images.githubusercontent.com/91370703/215753449-279cb2c2-fbc3-4a42-b47f-d3892e8cd2a2.png)
+![Database](https://user-images.githubusercontent.com/91370703/215752440-c474d23b-1490-4b7b-968b-ae76aa8919c6.png)
 
   _____________________
 #### Requirements
