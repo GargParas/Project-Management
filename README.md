@@ -32,7 +32,7 @@ Project Management Form is a micro project which is a part of my learning in my 
 - [#3] Added JS and connected pages to JsonPowerDB
 - [#4] Tested Database
 - [#5] Tested all pages
----
+
 #### v0.1.1 (31/01/2023 5:00PM)
 ##### Enhancements:
 - [#6] Added a README.md file
@@ -47,9 +47,11 @@ Project Management Form is a micro project which is a part of my learning in my 
 ![Database](https://github.com/snippy066/assignment/blob/main/projectImage/assign4.png)&nbsp;&nbsp;
 
 
------
-   
-  ### Instructions
+-----![Screenshot (23)](https://user-images.githubusercontent.com/91370703/215752430-743b4eb3-9aa1-431a-8284-f09f2ef1890a.png)
+![Screenshot (24)](https://user-images.githubusercontent.com/91370703/215752440-c474d23b-1490-4b7b-968b-ae76aa8919c6.png)
+![Screenshot (21)](https://user-images.githubusercontent.com/91370703/215752447-69543125-ca8a-4d6e-bb2b-e2630f4a120a.png)
+![Screenshot (22)](https://user-images.githubusercontent.com/91370703/215752451-41f66c06-6bce-4dbf-824c-a1f09320d757.png)
+
   _____________________
 #### Requirements
   * Web Browser
