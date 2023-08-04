@@ -22,18 +22,18 @@ Project Management Form is a micro project which is a part of my learning in my 
   
   ------
  ### Release History
-#### v0.0.0 (30/01/2023 3:30pm)
+#### v0.0.0 (03/08/2023 3:30pm)
 ##### Initialization:
 - [#1] Added basic designs of all planned HTML pages
 
- #### v0.1.0 (31/01/2023 3:00pm)
+ #### v0.1.0 (04/08/2023 3:00pm)
 ##### Enhancements:
 - [#2] Designed all HTML pages
 - [#3] Added JS and connected pages to JsonPowerDB
 - [#4] Tested Database
 - [#5] Tested all pages
 
-#### v0.1.1 (31/01/2023 5:00PM)
+#### v0.1.1 (05/08/2023 01:00AM)
 ##### Enhancements:
 - [#6] Added a README.md file
 
