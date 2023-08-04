@@ -43,7 +43,7 @@ Project Management Form is a micro project which is a part of my learning in my 
 ## Screenshots
 ---
 
-![Validation](https://user-images.githubusercontent.com/91370703/215752451-41f66c06-6bce-4dbf-824c-a1f09320d757.png)
+![Validation](https://github.com/GargParas/Project-Management/blob/e8a5c18fdd461b794cd49526a0d314124dc191ce/pictures/Screenshot%20(21).png)
 ![Searching](https://user-images.githubusercontent.com/91370703/215752447-69543125-ca8a-4d6e-bb2b-e2630f4a120a.png)
 ![Saving](https://user-images.githubusercontent.com/91370703/215752430-743b4eb3-9aa1-431a-8284-f09f2ef1890a.png)
 ![Updating](https://user-images.githubusercontent.com/91370703/215753449-279cb2c2-fbc3-4a42-b47f-d3892e8cd2a2.png)
